@@ -5,8 +5,8 @@
 </p>
 I’m currently = 
 <p align="center">
-- 🔭 study on Politeknik Pos Indonesia <br>
-- 🌱 learning Web Development <br> 
+- 🔭 Study on Politeknik Pos Indonesia <br>
+- 🌱 Learning Web Development <br> 
 - 👯 I’m looking to collaborate on Back End Web Development <br>
 - 📫 How to reach me: <a href="https://www.instagram.com/mraihanna1278.cs/">Instagram</a> <a href="https://www.facebook.com/raihan.nurazmii">Facebook</a> <a href="https://api.whatsapp.com/send?phone=6289504824037&text=Hai%20Azumi%2C%20I%20know%20your%20phone%20on%20Github">Whatsapp</a> <br>
 - ⚡ Fun fact: Saya Ganteng <br>

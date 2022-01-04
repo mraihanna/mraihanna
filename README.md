@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif" width="90" height="200">
 </p>
-## I’m Currently 🤙🏻
+<strong> I’m Currently </strong> 🤙🏻
 <p align="center">
 - 🔭 Study on Politeknik Pos Indonesia <br>
 - 🌱 Learning Web Development <br> 

@@ -4,8 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 <center>
-<img src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif" style="width="400"; 
-     height="500"" class="center"> <br>
+<img src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif" style="width='400'; 
+     height='500';margin='auto'"> <br>
 - 🔭 I’m currently study on Politeknik Pos Indonesia <br>
 - 🌱 I’m currently learning Web Development <br> 
 - 👯 I’m looking to collaborate on Back End Web Development <br>

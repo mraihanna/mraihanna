@@ -1,7 +1,7 @@
 ### Hi stalker 👋
 
 
-<img align="center" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif" width="90" height="200">
+<img align="center" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif" width="90" height="200" style="margin-left:'auto';margin-right:'auto';">
 - 🔭 I’m currently study on Politeknik Pos Indonesia <br>
 - 🌱 I’m currently learning Web Development <br> 
 - 👯 I’m looking to collaborate on Back End Web Development <br>

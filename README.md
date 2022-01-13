@@ -1,5 +1,5 @@
-<h3 align="center"><strong> Hi </strong> There 👋🏻 <br>I am Muhammad Raihan Nur Azmii</h3><br>
-<img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif">
+<h3 align="center"><strong> Hi </strong> There 👋🏻 <br>I am Muhammad Raihan Nur Azmii</h3>
+<img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif"><br>
  🔭 Study on Politeknik Pos Indonesia <br>
  🌱 Learning Web Development <br> 
  👯 I’m looking to collaborate on Back End Web Development <br>

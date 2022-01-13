@@ -1,7 +1,7 @@
 ### Hi Stalker 👋🏻
 
 <p align="center">
-<img src="https://c.tenor.com/xk8j5PcH8JwAAAAC/naruto-ricardo-kurama.gif" width="90" height="200">
+<img src="https://c.tenor.com/m8kD9Q3aNdMAAAAd/ricardo-ricardo-milos.gif" width="90" height="200">
 </p>
 <strong> I’m Currently </strong> 🤙🏻
 <p align="center">

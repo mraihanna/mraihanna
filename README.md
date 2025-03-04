@@ -1,8 +1,9 @@
-<h3 align="center"><strong> Hi </strong> There 👋🏻 <br>I am Muhammad Raihan Nur Azmii</h3>
+<h3 align="center"><strong> Hi </strong> 👋🏻 <br>I am Muhammad Raihan Nur Azmii</h3>
 <hr>
 <h5 align="right">🌐 <a href="https://mraihanna.vercel.app/">Azumi Web</a></h5>
 <p align="center">
  <img align="left" width=325" height="450" src="https://avatars.githubusercontent.com/u/59956239?v=4">
+ <hr>
 </p>
 <div>
     <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS Online University</h3>
@@ -29,7 +30,6 @@
 ---
 
 ```
-2602291153
 #include <life.h>
 
 while(!success)

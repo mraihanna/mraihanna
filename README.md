@@ -5,10 +5,10 @@
  <img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif"><hr>
 </p>
 <div>
-    <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS University</h3>
+    <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS Online University</h3>
+    <p>🏢 <strong>Software Engineering di PT Primalogic Global Teknologi</strong></p>
     <p>🌱 <strong>Sedang Mendalami Web Development</strong></p>
-    <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development</strong></p>
-    <p>⚡ <strong>Fun Fact:</strong> Saya Ganteng 😎</p>
+    <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development atau apapun itu</strong></p>
     <h3>📃 Proyek yang Selesai:</h3>
     <ul>
         <li>🎯 <a href="http://proyek-1-kasir-toko-sepatu.epizy.com/login.php">Aplikasi Kasir Toko Sepatu</a> bersama 

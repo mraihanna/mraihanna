@@ -1,13 +1,13 @@
 <h3 align="center"><strong> Hi </strong> There 👋🏻 <br>I am Muhammad Raihan Nur Azmii</h3>
 <hr>
-<h5 align="right">Garut, 27-08-2001</h5>
+<h5 align="right">🌐 <a href="https://mraihanna.vercel.app/">Azumi Web</a></h5>
 <p align="center">
  <img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif"><hr>
 </p>
 <div>
     <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS Online University</h3>
     <p>🏢 <strong>Software Engineering di PT Primalogic Global Teknologi</strong></p>
-    <p>🌱 <strong>Sedang Mendalami Web Development</strong></p>
+    <p>🌱 <strong>Sedang Mendalami Web Development | IoT | Machine Learning</strong></p>
     <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development atau apapun itu</strong></p>
     <h3>📃 Proyek yang Selesai:</h3>
     <ul>
@@ -22,7 +22,6 @@
         📸 <a href="https://www.instagram.com/mraihanna1278.cs/">Instagram</a> |
         📘 <a href="https://www.facebook.com/raihan.nurazmii">Facebook</a> |
         💬 <a href="https://api.whatsapp.com/send?phone=6289504824037&text=Hai%20Azumi%2C%20I%20know%20your%20phone%20number%20on%20Github">WhatsApp</a> |
-        🌐 <a href="https://mraihanna.vercel.app/">Website Pribadi</a>
     </p>
 </div>
 

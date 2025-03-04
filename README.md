@@ -2,7 +2,7 @@
 <hr>
 <h5 align="right">🌐 <a href="https://mraihanna.vercel.app/">Azumi Web</a></h5>
 <p align="center">
- <img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif"><hr>
+ <img align="left" width=325" height="450" src="https://avatars.githubusercontent.com/u/59956239?v=4"><hr>
 </p>
 <div>
     <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS Online University</h3>

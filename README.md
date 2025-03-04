@@ -4,7 +4,6 @@
 <p align="center">
  <img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif"><hr>
 </p>
-<div>
     <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS University</h3>
     <p>🌱 <strong>Sedang Mendalami Web Development</strong></p>
     <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development</strong></p>
@@ -26,7 +25,6 @@
         💬 <a href="https://api.whatsapp.com/send?phone=6289504824037&text=Hai%20Azumi%2C%20I%20know%20your%20phone%20number%20on%20Github">WhatsApp</a> |
         🌐 <a href="https://mraihanna.vercel.app/">Website Pribadi</a>
     </p>
-</div>
 
 ---
 

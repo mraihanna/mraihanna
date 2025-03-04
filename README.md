@@ -9,14 +9,12 @@
     <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development</strong></p>
     <p>⚡ <strong>Fun Fact:</strong> Saya Ganteng 😎</p>
 
-    <h3>📃 Proyek yang Selesai:</h3>
-    <ul>
-        <li>🎯 <a href="http://proyek-1-kasir-toko-sepatu.epizy.com/login.php">Aplikasi Kasir Toko Sepatu</a> bersama 
-            <a href="https://github.com/aldodwrzy">Aldo Dwie Rizky</a></li>
-        <li>🎯 <a href="https://aplikasi-pertukaran-mahasiswa.000webhostapp.com/">Aplikasi Pertukaran Mahasiswa</a> bersama 
-            <a href="https://github.com/Muhammad-Ilham-Ferdiansyah">Muhammad Ilham Ferdiansyah</a></li>
-        <li>🎯 <a href="https://toko.ly/azumitech">Azumitech</a></li>
-    </ul>
+    📃 Proyek yang Selesai:
+        🎯 <a href="http://proyek-1-kasir-toko-sepatu.epizy.com/login.php">Aplikasi Kasir Toko Sepatu</a> bersama 
+            <a href="https://github.com/aldodwrzy">Aldo Dwie Rizky</a>
+        🎯 <a href="https://aplikasi-pertukaran-mahasiswa.000webhostapp.com/">Aplikasi Pertukaran Mahasiswa</a> bersama 
+            <a href="https://github.com/Muhammad-Ilham-Ferdiansyah">Muhammad Ilham Ferdiansyah</a>
+        🎯 <a href="https://toko.ly/azumitech">Azumitech</a>
 
     <h3>📫 Hubungi Saya:</h3>
     <p>

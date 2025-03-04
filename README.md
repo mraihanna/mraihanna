@@ -21,7 +21,8 @@
     <p>
         📸 <a href="https://www.instagram.com/mraihanna1278.cs/">Instagram</a> |
         📘 <a href="https://www.facebook.com/raihan.nurazmii">Facebook</a> |
-        💬 <a href="https://api.whatsapp.com/send?phone=6289504824037&text=Hai%20Azumi%2C%20I%20know%20your%20phone%20number%20on%20Github">WhatsApp</a> |
+        💬 <a href="https://api.whatsapp.com/send?phone=6289504824037&text=Hai%20Azumi%2C%20I%20know%20your%20phone%20number%20on%20Github">WhatsApp</a> 
+     </br>
     </p>
 </div>
 

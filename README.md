@@ -4,18 +4,16 @@
 <p align="center">
  <img align="left" width=325" height="450" src="https://cdn.discordapp.com/attachments/780423169328152610/928051434405122068/ssstiktok_1639065754.gif"><hr>
 </p>
-    <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS University</h3>
+    <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS Online University</h3>
     <p>🌱 <strong>Sedang Mendalami Web Development</strong></p>
     <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development</strong></p>
     <p>⚡ <strong>Fun Fact:</strong> Saya Ganteng 😎</p>
-
-    📃 Proyek yang Selesai:
+    <h3>📃 Proyek yang Selesai: </h3>
         🎯 <a href="http://proyek-1-kasir-toko-sepatu.epizy.com/login.php">Aplikasi Kasir Toko Sepatu</a> bersama 
             <a href="https://github.com/aldodwrzy">Aldo Dwie Rizky</a>
         🎯 <a href="https://aplikasi-pertukaran-mahasiswa.000webhostapp.com/">Aplikasi Pertukaran Mahasiswa</a> bersama 
             <a href="https://github.com/Muhammad-Ilham-Ferdiansyah">Muhammad Ilham Ferdiansyah</a>
         🎯 <a href="https://toko.ly/azumitech">Azumitech</a>
-
     <h3>📫 Hubungi Saya:</h3>
     <p>
         📸 <a href="https://www.instagram.com/mraihanna1278.cs/">Instagram</a> |

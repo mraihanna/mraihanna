@@ -7,7 +7,6 @@
 </p>
 <div>
     <h3>🔭 Alumni Politeknik Pos Indonesia | Mahasiswa BINUS Online University</h3>
-    <p>🏢 <strong>Software Engineering di PT Primalogic Global Teknologi</strong></p>
     <p>🌱 <strong>Sedang Mendalami Web Development | IoT | Machine Learning</strong></p>
     <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development atau apapun itu</strong></p>
     <h3>📫 Hubungi Saya:</h3>

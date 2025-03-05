@@ -10,14 +10,6 @@
     <p>🏢 <strong>Software Engineering di PT Primalogic Global Teknologi</strong></p>
     <p>🌱 <strong>Sedang Mendalami Web Development | IoT | Machine Learning</strong></p>
     <p>👯 <strong>Terbuka untuk Kolaborasi dalam Back-End Web Development atau apapun itu</strong></p>
-    <h3>📃 Proyek yang Selesai di Politeknik Pos Indonesia:</h3>
-    <ul>
-        <li>🎯 <a href="http://proyek-1-kasir-toko-sepatu.epizy.com/login.php">Aplikasi Kasir Toko Sepatu</a> bersama 
-            <a href="https://github.com/aldodwrzy">Aldo Dwie Rizky</a></li>
-        <li>🎯 <a href="https://aplikasi-pertukaran-mahasiswa.000webhostapp.com/">Aplikasi Pertukaran Mahasiswa</a> bersama 
-            <a href="https://github.com/Muhammad-Ilham-Ferdiansyah">Muhammad Ilham Ferdiansyah</a></li>
-        <li>🎯 <a href="https://toko.ly/azumitech">Azumitech</a></li>
-    </ul>
     <h3>📫 Hubungi Saya:</h3>
     <p>
         ✉️ <a href="https://www.linkedin.com/in/mraihanna/">LinkedIn</a> |
